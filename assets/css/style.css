@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Pokemon-solid";
+    src: url("fonts/Pokemon-solid.ttf");
+}
+
+.text {font-family: 'Pokemon-solid';
+    font-weight: normal;
+    font-style: normal;
+}
+
+     h1  {font-size: 3em;
+        padding: 1em;}
+
+.jumbotron { background-image:"./assets/images/pokeballs.jpg"; }
